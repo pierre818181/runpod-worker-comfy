@@ -6,7 +6,7 @@
   <img src="assets/worker_sitting_in_comfy_chair.jpg" title="Worker sitting in comfy chair" />
 </p>
 
-[![RunPod](https://api.runpod.io/badge/blib-la/runpod-worker-comfy)](https://www.runpod.io/console/hub/blib-la/runpod-worker-comfy)
+[![RunPod](https://api.runpod.io/badge/pierre818181/runpod-worker-comfy)](https://www.runpod.io/console/hub/pierre818181/runpod-worker-comfy)
 
 [![Discord](https://img.shields.io/discord/1091306623819059300?color=7289da&label=Discord&logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/invite/m3TBB9XEkb)
 
